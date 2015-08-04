@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_b">Country Name</string>
+    <string name="action_red">Red</string>
+    <string name="action_blue">Blue</string>
+    <string name="action_pink">Pink</string>
+</resources>
